@@ -9,7 +9,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![erwrer](https://img.shields.io/badge/erwrer-3670A0?style=for-the-badge&logo=erwrer&logoColor=ffdd54)(https://www.https://www.skillovilla.com/dashboard/evaluations/completed/)
+[![erwrer](https://img.shields.io/badge/erwrer-3670A0?style=for-the-badge&logo=erwrer&logoColor=ffdd54)](https://www.https://www.skillovilla.com/dashboard/evaluations/completed/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=smritigautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
