@@ -3,13 +3,13 @@
 
 # 📊 Résumé :
 [![Résumé](https://img.shields.io/badge/Résumé-%230077B5.svg?logo=Résumé&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
+[![SkilloVilla](https://img.shields.io/badge/SkilloVilla-3670A0?style=for-the-badge&logo=SkilloVilla&logoColor=ffdd54)](https://www.skillovilla.com/dashboard/evaluations/completed)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![erwrer](https://img.shields.io/badge/erwrer-3670A0?style=for-the-badge&logo=erwrer&logoColor=ffdd54)](https://www.skillovilla.com/dashboard/evaluations/completed)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=smritigautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
