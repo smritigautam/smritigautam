@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Smriti — an aspiring **Data Analyst**.<br><br>📊 I work with **Power BI, SQL, Python, Excel & Data Analytics**.<br><br>🎓 Completed multiple Data Analytics courses and certifications from **Skillovilla**.<br><br>💻 Built hands-on projects including **Python, SQL, and ShopNest Power BI Capstone**.<br><br>📈 Passionate about transforming raw data into clear insights and interactive dashboards.<br><br>🐍 Exploring data cleaning, EDA, visualization, SQL analytics, and Business Intelligence.<br><br>🚀 Building projects and continuously learning to become a better data professional.<br>
 
-# 📊 Resume :
-
+# 📊 Résumé :
+[![Résumé](https://img.shields.io/badge/Résumé-%230077B5.svg?logo=Résumé&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
