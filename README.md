@@ -3,7 +3,7 @@
 
 # 📊 Résumé :
 [![Résumé](https://img.shields.io/badge/Résumé-%230077B5.svg?logo=Résumé&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
-[![SkilloVilla](https://img.shields.io/badge/SkilloVilla-3670A0?style=for-the-badge&logo=SkilloVilla&logoColor=ffdd54)](https://www.skillovilla.com/dashboard/evaluations/completed)
+[![SkilloVilla](https://img.shields.io/badge/SkilloVilla-%230077B5.svg?logo=SkilloVilla&logoColor=white)](https://www.skillovilla.com/dashboard/evaluations/completed)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
