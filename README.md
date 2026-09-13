@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Power BI](https://img.shields.io/badge/Power BI-4479A1.svg?style=for-the-badge&logo=Power BI&logoColor=white)![Excel](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=Excel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![PowerBI](https://img.shields.io/badge/PowerBI-4479A1.svg?style=for-the-badge&logo=PowerBI&logoColor=white)![Excel](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=Excel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=smritigautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
