@@ -38,3 +38,6 @@
 [![](https://komarev.com/ghpvc/?username=smritigautam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📄 Resume
+
+[View My Resume](./Smriti_Gautam_Data_Analyst_Resume.pdf)
