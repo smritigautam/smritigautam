@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) [![SkilloVilla](https://img.shields.io/badge/SkilloVilla-%230077B5.svg?logo=SkilloVilla&logoColor=white)](https://www.skillovilla.com/dashboard/evaluations/completed)
 
 # 💻 Tech Stack:
-![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-4479A1.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=Excel&logoColor=white)
+[![SQL Certificate](https://img.shields.io/badge/SQL_Certificate-%230077B5.svg?logo=databricks&logoColor=white)](./SQL_Certificate.pdf) [![Power BI Certificate](https://img.shields.io/badge/Power_BI_Certificate-%23F2C811.svg?logo=powerbi&logoColor=black)](./PowerBI_Certificate.pdf) [![Excel Certificate](https://img.shields.io/badge/Excel_Certificate-%23217346.svg?logo=microsoftexcel&logoColor=white)](./Excel_Certificate.pdf)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=smritigautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
