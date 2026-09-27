@@ -3,13 +3,13 @@
 
 # 📊 Résumé :
 [![Résumé](https://img.shields.io/badge/Résumé-%230077B5.svg?logo=Résumé&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
-[![SkilloVilla](https://img.shields.io/badge/SkilloVilla-%230077B5.svg?logo=SkilloVilla&logoColor=white)](https://www.skillovilla.com/dashboard/evaluations/completed)
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) [![SkilloVilla](https://img.shields.io/badge/SkilloVilla-%230077B5.svg?logo=SkilloVilla&logoColor=white)](https://www.skillovilla.com/dashboard/evaluations/completed)
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-4479A1.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=Excel&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-4479A1.svg?style=for-the-badge&logo=PowerBI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-4479A1.svg?style=for-the-badge&logo=Excel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=smritigautam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
