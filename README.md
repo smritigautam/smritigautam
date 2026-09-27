@@ -20,7 +20,7 @@
 <strong>Excel | SQL | Power BI | Data Analysis | Data Visualization | Data Interpretation</strong>
 
 # 📊 Résumé :
-[![Résumé](https://img.shields.io/badge/Résumé-%230077B5.svg?logo=Résumé&logoColor=white)](https://www.linkedin.com/in/smriti-gautam-6a95932b1/) [View My Resume](./Smriti_Gautam_Data_Analyst_Resume.pdf)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-%230077B5.svg?logo=readthedocs&logoColor=white)](./Smriti_Gautam_Data_Analyst_Resume.pdf)
 
 
 ## 🌐 Socials:
